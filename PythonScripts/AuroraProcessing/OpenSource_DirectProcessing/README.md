@@ -7,4 +7,4 @@ This script runs **only if** the following packages are installed:
   - Psycopg2
   - SciPy
 
-You can install GDAL and SciPy through the Python Anaconda (Conda) download manager, so this file heavily recommends that you use Conda instead of PIP to install packages or you might have a hard time getting GDAL or SciPy onto your Python Environment. 
+You can install GDAL and SciPy through the Python Anaconda (Conda) download manager, so this file heavily recommends that you use Conda instead of PIP to install packages or you might have a hard time getting GDAL or SciPy into your Python Environment. 
